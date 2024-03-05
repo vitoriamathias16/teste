@@ -5,8 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>vitoria caroline mathias</Text>
-      <Text>05/03/24</Text>
-      <Text>05/03/24</Text>
+    
       <StatusBar style="auto" />
     </View>
   );
